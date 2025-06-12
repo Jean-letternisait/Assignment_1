@@ -1,0 +1,8 @@
+C:\CPRg 211\Assignment_Classes_&_Inheritance\obj\Debug\Assignment_Classes_&_Inheritance.csproj.AssemblyReference.cache
+C:\CPRg 211\Assignment_Classes_&_Inheritance\obj\Debug\Assignment_Classes_&_Inheritance.csproj.CoreCompileInputs.cache
+C:\CPRg 211\Assignment_Classes_&_Inheritance\bin\Debug\Assignment_Classes_&_Inheritance.exe.config
+C:\CPRg 211\Assignment_Classes_&_Inheritance\bin\Debug\Assignment_Classes_&_Inheritance.exe
+C:\CPRg 211\Assignment_Classes_&_Inheritance\bin\Debug\Assignment_Classes_&_Inheritance.pdb
+C:\CPRg 211\Assignment_Classes_&_Inheritance\obj\Debug\Assignment_Classes_&_Inheritance.exe
+C:\CPRg 211\Assignment_Classes_&_Inheritance\obj\Debug\Assignment_Classes_&_Inheritance.pdb
+C:\CPRg 211\Assignment_Classes_&_Inheritance\obj\Debug\Assignment_Classes_&_Inheritance.exe.config
