@@ -50,7 +50,7 @@ namespace Assignment_Classes___Inheritance
                    $"Color: {Color}\n" +
                    $"Price: {Price:C}\n" +
                    $"Number of Doors: {NumberOfDoors}\n" +
-                   $"Height: {Height}" +
+                   $"Height: {Height}\n" +
                    $"Width: {Width}";
         }
         public override string ToFileLine()
